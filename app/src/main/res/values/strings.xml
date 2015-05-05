@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KremAndKhrust</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_started">Загрузка началась!</string>
+    <string name="download_finished">Загрузка завершена!</string>
+    <string name="track_exists">Трек уже существует</string>
+
+</resources>
